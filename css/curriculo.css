@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 220px;
+}
+
+header h1 {
+        background-color: #202538;
+        font-family: "Roboto";
+        font-size: 50px;
+        color: #ffffff;
+        margin:0px;
+        padding-top: 50px;
+        padding-left: 450px;
+
+}
+
+header h2 {
+        background-color: #202538;
+        font-family: "Roboto";
+        font-size: 30px;
+        color: #ffffff;
+        margin:0px;
+        padding-top: 10px;
+        padding-left: 450px;
+
+}
+
+nav ul li{
+    font-size: 30px;
+    display: inline;
+    margin-left: 50px;
+    
+}
+
+body {
+        margin: 0px;
+        padding: 0px;
+        font-family: "Roboto";
+        font-size: 25px;
+    
+    }
+
+.cabeca {
+    background-color: #202538;
+    color:#ffffff; 
+    font-family: "Roboto";
+    margin: 0;
+    padding: 0;
+}
+
+.cabeca li a {
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+#primeiro{
+    margin: 0px;
+    width: 100;
+    height: 527px;
+    background-image: url(foto%20Yp%C3%AA.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #202538;
+    font-size: 40px;
+    color: #202538;
+    text-align: center;
+    padding-right: 200px;
+    padding-left: 1250px;
+    padding-top: 200px;
+    padding-bottom: 0px;
+    
+    
+}
+
+#sobre{
+    background: #92364f;
+    color: #ffffff;
+    column-count: 2;
+    column-width: 50px;
+    padding: 200px 200px 200px 200px;    
+}
+
+#sobre h1{
+    color: #f7d476;
+    font-size: 75px;
+    padding: 10px 10px 10px 10px;
+}
+
+#sobre h2, p{
+    padding: 10px 10px 10px 10px;
+    
+}
+
+#trabalho{
+    background: #f7d476;
+    color: #361a0e;
+    column-count: 2;
+    column-width: 25px;
+    padding: 200px 200px 200px 200px;
+        
+}
+
+#trabalho h1{
+    color:#361a0e;
+    font-size: 75px;
+    padding: 10px 10px 10px 10px;
+}
+
+#trabalho h2, p{
+    padding: 10px 10px 10px 10px;
+}
+
+
+
+#contato{
+    margin: 0px;
+    background: #68651e;
+    text-align: center;
+    color: #ffffff;
+    padding: 200px 200px 200px 200px;
+    
+        
+}
+
+
+#ultimo{
+    margin: 0px;
+    height: 527px;
+    width: 100;
+    background-image:url("../imagens/foto%20pra%C3%A7a.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #202538;
+    font-size: 30px;
+        text-align: center;
+    padding-right: 200px;
+    padding-left: 1250px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+#ultimo p{
+    padding-top: 200px;
+}
+
+footer{
+    margin: 0px;
+    background: #202538;
+    color: #ffffff;
+    text-align: right;
+    padding: 100px 200px 100px 100px;
+    
+}
+
+.cabeca img{
+    float: left;
+    margin: 30px 0 0 30px;
+}
+
+.cabeca nav {
+    float: right;
+    margin: 0;
+    margin-top: 100px;
+    margin-right: 200px;
+    padding: 0;
+}
